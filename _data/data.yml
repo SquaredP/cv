@@ -7,15 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Patrick Prodöhl
-    tagline: Experienced IT Architect
+    name: Patrick Prodoehl
+    tagline: Experienced IT Architect and ServiceNow enthusiast
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: patrick.prodoehl@gmail.com
     phone: 
     timezone: Europe/Berlin Timezone
-    citizenship: Germany
+    citizenship: Mannheim, Germany
     website:  #do not add http://
     linkedin: patrick.prodoehl
     xing: patrick.prodoehl
@@ -36,19 +36,13 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Professional (C1)
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: Rowing
+          link: mannheimer-rc.de
 
 career-profile:
     title: Career Profile
@@ -190,19 +184,13 @@ skills:
         level: 98%
 
       - name: ServiceNow Implementation
-        level: 98%
-
-      - name: Team Leadership
-        level: 95%
-
-      - name: Finance Management
         level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Team Leadership
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Finance Management
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
