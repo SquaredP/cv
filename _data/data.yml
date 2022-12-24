@@ -47,22 +47,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Driven by the vision to ease everyones worklife.
+      Granted with the gift of joined-up thinking, a passion for technology and a strong desire to learn and grow.
+      <Experience>
+
 education:
     title: Education
     info:
-      - degree: Degree 1
-        university: University 
-        time: 2011 - 2012
+      - degree: IT Specialist (system integration)
+        university: University Hospital of Cologne 
+        time: 2000 - 2003
         details: |
-          Describe y
-            - Bullet point
-            - Bullet point
+          Here my practical foundation for my career was established.
+            - IT Support
+            - overall degree: 2
       - degree: Degree 2 
         university: University 2
         time: 2007 - 2011
@@ -70,6 +68,7 @@ education:
           Describe 
             - Bullet point
             - Bullet point
+
 experiences:
     title: Experiences
     info:
@@ -134,32 +133,30 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+#
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
 publications:
-    title: Publications
+    title: Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      The following certifications were archieved during the last 10 years.
     papers:
       - title: The Art of Computer Programming
         link: "#"
